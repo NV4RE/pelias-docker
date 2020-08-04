@@ -1,0 +1,21 @@
+
+ห้าง, ห้างสรรพสินค้า, shop, mall
+รถไฟฟ้า, BTS, sky train
+
+# Misc Landmarks
+อนุสาวรีย์ชัยสมรภูมิ, Victory Monument
+
+เหนือ, north, N
+ใต้, south, S
+ตะวันออก, east, E
+ตะวันตก, west, W
+north west => northwest
+north east => northeast
+south west => southwest
+south east => southeast
+ตะวันตกเฉียงเหนือ, northwest, NW
+ตะวันออกเฉียงเหนือ, northeast, NE
+ทิศตะวันตกเฉียงใต้, southwest, SW
+ทิศตะวันออกเฉียงใต้, southeast, SE
+
+กรุงเทพมหานคร, กรุงเทพ, กรุงเทพฯ, กทม., Bangkok, BKK

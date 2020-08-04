@@ -1,0 +1,14 @@
+เหนือ, north, N
+ใต้, south, S
+ตะวันออก, east, E
+ตะวันตก, west, W
+north west => northwest
+north east => northeast
+south west => southwest
+south east => southeast
+ตะวันตกเฉียงเหนือ, northwest, NW
+ตะวันออกเฉียงเหนือ, northeast, NE
+ทิศตะวันตกเฉียงใต้, southwest, SW
+ทิศตะวันออกเฉียงใต้, southeast, SE
+
+อุดมสุข, Udom Suk, Udomsuk
