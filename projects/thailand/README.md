@@ -21,10 +21,13 @@ To run a complete build, execute the following commands:
 pelias compose pull
 pelias elastic start
 pelias elastic wait
-pelias elastic create
+read -r -p "Please run create_index.http to create index" key
+read -r -p "Press any key to continue..." key
 pelias download all
 pelias prepare all
 pelias import all
+pelias download geonames
+pelias import geonames
 pelias compose up
 pelias test run
 ```
